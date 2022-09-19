@@ -1,4 +1,4 @@
-Backend developer with 5+ years of experience, working especially with **Ruby** and **Ruby on Rails**, but also has experience with **Java** (Spring) and **Elixir** (Phoenix). Is a free software enthusiast and **Linux** user since 2010. B.S. in Computer Science (Federal Rural University of Pernambuco - UFRPE), is always studying and experimenting new technologies referent to software engineering (programming languages, frameworks, development tools, good practices, performance optimization, and etc).
+Backend developer with 6+ years of experience, working especially with **Ruby** and **Ruby on Rails**, but also has experience with **Java** (Spring) and **Elixir** (Phoenix). Is a free software enthusiast and **Linux** user since 2010. B.S. in Computer Science (Federal Rural University of Pernambuco - UFRPE), is always studying and experimenting new technologies referent to software engineering (programming languages, frameworks, development tools, good practices, performance optimization, and etc).
 
 ## Connect with me
 
