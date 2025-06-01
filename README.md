@@ -11,7 +11,7 @@ I have a bachelor’s degree in Computer Science from the Federal Rural Universi
 * Elixir, Phoenix, ExUnit, and OTP.
 * PostgreSQL, Redis, MongoDB, and Elasticsearch.
 * AWS (EC2, RDS, ElastiCache, S3, SQS, API Gateway, and Lambda).
-* Linux, Docker, and Kubernetes.
+* Linux, Nginx, Docker, and Kubernetes.
 * RabbitMQ.
 
 **Professional Highlights:**
