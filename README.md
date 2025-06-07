@@ -12,6 +12,7 @@ I have a bachelor’s degree in Computer Science from the Federal Rural Universi
 * PostgreSQL, Redis, MongoDB, and Elasticsearch.
 * AWS (EC2, RDS, ElastiCache, S3, SQS, API Gateway, and Lambda).
 * Linux, Nginx, Docker, and Kubernetes.
+* Monolith and Microservices.
 * RabbitMQ.
 
 **Professional Highlights:**
