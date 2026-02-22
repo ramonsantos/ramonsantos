@@ -1,6 +1,6 @@
 # Ramon Santos — Senior Software Engineer
 
-Senior Software Engineer with 8 years of experience and deep expertise in the Ruby on Rails ecosystem. I specialize in crafting robust solutions that combine high performance and efficiency. Skilled in designing resilient REST APIs and background services running on AWS cloud environments.
+Senior Software Engineer with 9 years of experience and deep expertise in the Ruby on Rails ecosystem. I specialize in crafting robust solutions that combine high performance and efficiency. Skilled in designing resilient REST APIs and background services running on AWS cloud environments.
 
 I focus on delivering end-to-end quality solutions, from conception to deployment. I actively participate in requirements definition, propose well-structured architectures, and apply development best practices such as automated testing, SOLID principles, design patterns, code reviews, and continuous integration. Committed to ensuring application maintainability, performance, and reliability, I ensure every delivery adds real value to the business and end-users.
 
